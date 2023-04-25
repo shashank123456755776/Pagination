@@ -1,0 +1,196 @@
+[
+    {
+        "name":"shashank",
+        "class":"vip",
+        "school":"Sushant Public School",
+        "college":"Gl bajaj institute of technolgy and mangement"
+    },
+    {
+        "name":"suman",
+        "class":"local",
+        "school":"Sushant prep school",
+        "college":"shyam sunder institute of technology and managemnt"
+    },
+
+    {
+        "name":"deepak",
+        "class":"fast",
+        "school":"grand school",
+        "college":"United kingdom institute of technology and maangement"
+    },
+    
+        {
+            "name":"rahul",
+            "class":"seen",
+            "school":"hybrid school od techno",
+            "college":"Galgotiya united Kingdom school prep and management"
+        },
+        {
+            
+                "name":"sanju",
+               "class":"feast",
+                "school":"krishna mohan school",
+                "college":"sharda insttitute of prep school"
+            
+        },
+        {
+            "name":"lena",
+            "class":"feka",
+            "school":"shadhu sanj school",
+            "college":"lena instittte of technolgy and mangement"
+        },
+        {
+            "name":"shashank",
+            "class":"deka",
+            "school":"dena school",
+            "college":"mmnit institute of technolgy and mangement"
+        },
+        {
+            "name":"Shekhar",
+            "class":"sesa",
+            "school":"break institute of technology and management",
+            "college":"sema institute of technology and management"
+        },
+        {
+            "name":"lokar",
+            "class":"high",
+            "school":"Dinku School",
+            "college":"deta institute  of technolgy and mangement"
+        },
+        {
+            "name":"hemant",
+            "class":"sekur",
+            "school":"brikant Public School",
+            "college":" Gm institute of technolgy and mangement"
+        },
+
+        {
+            "name":"knaha",
+            "class":"tip",
+            "school":"lenda pukar Public School",
+            "college":"nectar institute of technolgy and mangement"
+        },
+        {
+            "name":"sinkuti",
+            "class":"linkuti",
+            "school":"brain prep school",
+            "college":"rup goswami  institute of technology and managemnt"
+        },
+    
+        {
+            "name":"kenta",
+            "class":"sinkutil",
+            "school":"prep ganda tinku sikal ",
+            "college":"prep design kenda institute of technology and maangement"
+        },
+        
+            {
+                "name":"kumarsampradya",
+                "class":"alohal",
+                "school":"sambrid khani  school od techno",
+                "college":"sonkala united school prep and management"
+            },
+            {
+                
+                    "name":"solnki",
+                   "class":"tinku",
+                    "school":"krishna mohade school",
+                    "college":"kumar insttitute of prep school"
+                
+            },
+            {
+                "name":"mahaprabhu",
+                "class":"lisunta",
+                "school":"kunj sanj school",
+                "college":"kunj bihari prep public school"
+            },
+            {
+                "name":"gauranga ",
+                "class":"lindniu",
+                "school":"ether prep school",
+                "college":"suminta institute of technolgy and mangement"
+            },
+            {
+                "name":"kapur",
+                "class":"beat",
+                "school":"limkdin institute of technology and management",
+                "college":"isu tin ta  institute of technology and management"
+            },
+            {
+                "name":"dinju ",
+                "class":"sow",
+                "school":"Dbinku  School",
+                "college":"mete institute  of technolgy and mangement"
+            },
+            {
+                "name":"aradhya",
+                "class":"prep",
+                "school":"nice  Public School",
+                "college":" Gm and tech institute of technolgy and mangement"
+            },
+            {
+                "name":"lender",
+                "class":"sinku",
+                "school":"brain teaser Public School",
+                "college":"gl kunfy institute of technolgy and mangement"
+            },
+            {
+                "name":"pure devotion",
+                "class":"seeman",
+                "school":"hide jam prep school",
+                "college":"sunder institute of technology and managemnt"
+            },
+        
+            {
+                "name":"nectar of pure devotion",
+                "class":"lonka",
+                "school":"monk sink  school",
+                "college":"Lena institute of technology and maangement"
+            },
+            
+                {
+                    "name":"sanaka",
+                    "class":"luna",
+                    "school":"nectar school od techno",
+                    "college":"Nectar of  united Kingdom school prep and management"
+                },
+                {
+                    
+                        "name":"rudra",
+                       "class":"fea",
+                        "school":"krishna moh school",
+                        "college":"sharman insttitute of prep school"
+                    
+                },
+                {
+                    "name":"ram",
+                    "class":"bhumhar",
+                    "school":"shadhusang sanj school",
+                    "college":"peka instittte of technolgy and mangement"
+                },
+                {
+                    "name":"sita",
+                    "class":"mata",
+                    "school":"linku prep  school",
+                    "college":"susmit institute of technolgy and mangement"
+                },
+                {
+                    "name":"kundu",
+                    "class":"radha",
+                    "school":"rani institute of technology and management",
+                    "college":"binku institute of technology and management"
+                },
+                {
+                    "name":"lokenath",
+                    "class":"lower",
+                    "school":"sinku  School",
+                    "college":"mathura institute  of technolgy and mangement"
+                },
+                {
+                    "name":"kehav",
+                    "class":"madhur",
+                    "school":"yap Public School",
+                    "college":" Gl institute of technolgy and mangement"
+                }
+    
+]
